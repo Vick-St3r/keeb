@@ -1,4 +1,4 @@
-# Worked on keyboard layout + wiring
+# Sept 4: Worked on keyboard layout + wiring
 
 I started with deciding my keyboard layout and decided on having something like
 
