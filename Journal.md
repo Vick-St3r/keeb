@@ -12,7 +12,7 @@ I decided on having just the rotary encoder due to it being the most useful and 
 
 With the help of Joe Scotto's Video, I was able to wire up my keyboard
 
-![image](https://github.com/Vick-St3r/keeb/blob/main/Images/wiringkeeb.png?raw=true)
+![image](https://github.com/Vick-St3r/keeb/blob/main/Images/wiringkeeb.PNG?raw=true)
 
 Next time, I have to connect these wires to the Raspberry Pi Pico. 
 
