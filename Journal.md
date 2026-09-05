@@ -16,5 +16,5 @@ With the help of Joe Scotto's Video, I was able to wire up my keyboard
 
 Next time, I have to connect these wires to the Raspberry Pi Pico. 
 
-**Total time spent: ~2 hours**
+**Total time spent: ~3.5 hours**
 
