@@ -12,6 +12,8 @@ I decided on having just the rotary encoder due to it being the most useful and 
 
 With the help of Joe Scotto's Video, I was able to wire up my keyboard
 
+I had a lot of trouble due to the switches not being aligned on the same line - I had to move them all manually to make sure they were all aligned with the same wire
+
 ![image](https://github.com/Vick-St3r/keeb/blob/main/Images/wiringkeeb.PNG?raw=true)
 
 Next time, I have to connect these wires to the Raspberry Pi Pico. 
